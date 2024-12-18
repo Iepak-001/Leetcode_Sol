@@ -4,7 +4,6 @@
 
 
 
-
 ***Code:***
 ```
     int removeElement(vector<int>& nums, int val) {
@@ -18,7 +17,9 @@
         }
         return j;
     }
-,,,        
+```     
+
+
 
 >[!TIP]
 >use ful information for Remainder
