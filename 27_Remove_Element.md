@@ -3,9 +3,11 @@
 ### Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
 
 
+![imgage demo](./assets/kingster-education-website-template-1024x800.jpg)
+
 
 ***Code:***
-```
+```cpp
     int removeElement(vector<int>& nums, int val) {
         int count=0;
         int j =0;
@@ -21,7 +23,7 @@
 
 
 
->[!TIP]
+>[!STEPS]
 >use ful information for Remainder
 
 > [!NOTE]
